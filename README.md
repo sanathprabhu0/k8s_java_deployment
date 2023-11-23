@@ -34,6 +34,7 @@ https://minikube.sigs.k8s.io/docs/start/
 
 INSTALL EKS SETUP
 #############################################################
+
 Step1: Take EC2 Instance with t2.MEDIUM instance type
 
 Step2: Create IAM Role with Admin policy for eks-cluster and attach to ec2-instance
